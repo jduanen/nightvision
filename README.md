@@ -1,5 +1,3 @@
-Night Vision Monocular
-
 # Night Vision Monocular
 
 Single tube from an AN/PVS-5 night vision goggle that I got at the Foothill hamfest in the early 1990s.
